@@ -19,6 +19,12 @@ pip install -r requirements.txt
 ```bash
 setup.bat
 ```
+3. Edit mkdocs.yml
+* `site_name`
+* `site_author`
+* `repo_name`
+* `repo_url`
+* `extra`
 
 # main commands
 * `mkdocs serve`: run in local
